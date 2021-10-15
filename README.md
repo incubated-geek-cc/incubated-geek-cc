@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Charmaine. A Data Analyst & Web Developer from Singapore.</h1>
-<h3 align="center">Currently in Healthcare Analytics. Likes exploring 🌐 GIS-related technology.</h3>
+<h1 align="center">Hi 👋 I'm Charmaine. A Data Analyst & Web Developer from Singapore.</h1>
+<h3 align="center">Currently in Healthcare Analytics | Likes exploring 🌐 GIS-related technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incubated-geek-cc&label=Profile%20views&color=0e75b6&style=flat" alt="incubated-geek-cc" /> </p>
 
