@@ -21,8 +21,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@geek-cc](https://medium.com/@geek-cc)
 
-- 📫 How to reach me **incubated.geek.cc@gmail.com**
-
 - ⚡ Fun fact **I do wire-crafting in my leisure time**
 
 - 🌱 **I am also a firm believer of lifelong learning**
