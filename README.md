@@ -32,8 +32,7 @@
 <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geek-cc" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Read my works on <a href="https://medium.com/@geek-cc" target="blank">Medium</a></h3>
-<h4 align="left">✍️ Publications I write for include:</h4>
+<h3 align="left">✍️ <a href="https://medium.com/@geek-cc" target="blank">Medium</a> publications I write for include:</h3>
 <p align="left">
 <a href="https://towardsdatascience.com/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/fit/c/90/90/1*eLxNtw6hQ4-3HrHda5BCCw.png" alt="TDS" height="30" width="30" /></a>
 <a href="https://javascript.plainenglish.io/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/fit/c/90/90/1*iETPsI-y6GMmx-AJEQRBnw@2x.png" alt="JS" height="30" width="30" /></a>
@@ -43,7 +42,7 @@
 
 <h3 align="left">☕ Buy me a Coffee!</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/geekcc" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/assets/img/footer/c-ftr-logo.png" alt="Buy me a coffee" height="30" width="140" /></a>
+<a href="https://www.buymeacoffee.com/geekcc" target="blank">💝 <img align="center" src="https://cdn.buymeacoffee.com/assets/img/footer/c-ftr-logo.png" alt="Buy me a coffee" height="30" width="140" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
