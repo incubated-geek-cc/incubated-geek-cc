@@ -40,9 +40,8 @@
 <a href="https://medium.com/geekculture" target="blank"><img align="center" src="https://cdn-images-1.medium.com/fit/c/90/90/1*bWAVaFQmpmU6ePTjNIje_A.jpeg" alt="Geek Culture" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">☕ Buy me a Coffee!</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/geekcc" target="blank">💝 <img align="center" src="https://cdn.buymeacoffee.com/assets/img/footer/c-ftr-logo.png" alt="Buy me a coffee" height="30" width="140" /></a>
+<a href="https://www.buymeacoffee.com/geekcc" target="blank">☕ <img align="center" src="https://cdn.buymeacoffee.com/assets/img/footer/c-ftr-logo.png" alt="Buy me a coffee" height="30" width="140" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
