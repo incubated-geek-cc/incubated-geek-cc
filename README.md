@@ -11,9 +11,9 @@
 
 - 👩‍💻 I work within constraints and excel at finding loopholes in systems. Feel free to fork my application at [File Link Encoder](https://github.com/incubated-geek-cc/file-link-encoder). To know its full secrets please read my short article at [Email .exe files in 2021](https://medium.com/geekculture/this-is-how-you-can-email-exe-or-bat-files-in-3-steps-in-the-year-2021-c0aa482e9e1)
 
-- 🚍 I do GIS-related side projects. Here is a real-time Bus Arrival exploration piece I created at [SG Bus Transportation](https://github.com/incubated-geek-cc/sg-transportation)
+- 🚍 I do GIS-related side projects. Here is a real-time Bus Arrival exploration piece I created at [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
 
-- 🏙️ 1 of the GIS side project I intend to deep-dive into is 3D Geospatial modelling. A first-cut can be found at  [SG HDB Building Layer in 3D](https://github.com/incubated-geek-cc/sg-hdb-building-layer-in-3D)
+- 🏙️ 1 of the GIS side project I intend to deep-dive into is 3D Geospatial modelling. A first-cut can be found at  [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
 
 - 💊 I am also eager to contribute more to the field of healthcare analytics. 1 of my side-projects involving Pharmaceutical Drug Data analytics has been kickstarted at [Exploring & Crawling Compiled DrugBank Data](https://github.com/incubated-geek-cc/DrugBankAPICrawler)
 
