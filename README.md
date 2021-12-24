@@ -9,7 +9,7 @@
 
 - 🛠️ I usually create open-sourced tools to make others' lives easier. E.g. I create Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.herokuapp.com/)
 
-- 👩‍💻 I work within constraints and excel at finding loopholes in systems. Feel free to fork my application at [File Link Encoder](https://github.com/incubated-geek-cc/file-link-encoder). To know its full secrets please read my short article at [Email .exe files in 2021](https://medium.com/geekculture/this-is-how-you-can-email-exe-or-bat-files-in-3-steps-in-the-year-2021-c0aa482e9e1)
+- 👩🏻‍💻 I work within constraints and excel at finding loopholes in systems. Feel free to fork my application at [File Link Encoder](https://github.com/incubated-geek-cc/file-link-encoder). To know its full secrets please read my short article at [Email .exe files in 2021](https://medium.com/geekculture/this-is-how-you-can-email-exe-or-bat-files-in-3-steps-in-the-year-2021-c0aa482e9e1)
 
 - 🚍 I do GIS-related side projects. Here is a real-time Bus Arrival exploration piece I created at [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
 
@@ -32,7 +32,7 @@
 <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geek-cc" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">✍️ <a href="https://medium.com/@geek-cc" target="blank">Medium</a> publications I write for include:</h3>
+<h3 align="left">🖋 <a href="https://medium.com/@geek-cc" target="blank">Medium</a> publications I write for include:</h3>
 <p align="left">
 <a href="https://towardsdatascience.com/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/fit/c/90/90/1*eLxNtw6hQ4-3HrHda5BCCw.png" alt="TDS" height="30" width="30" /></a>
 <a href="https://javascript.plainenglish.io/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/fit/c/90/90/1*iETPsI-y6GMmx-AJEQRBnw@2x.png" alt="JS" height="30" width="30" /></a>
@@ -42,7 +42,7 @@
 
 <h3 align="left"> Buy me a Coffee!</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/geekcc" target="blank">☕ geekcc</a>
+<a href="https://www.buymeacoffee.com/geekcc" target="blank">🔗☕ geekcc</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
