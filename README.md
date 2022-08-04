@@ -13,7 +13,7 @@
 
 - 🚍 I do GIS-related side projects. Here is a real-time Bus Arrival exploration piece I created at [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
 
-- 🚘 Another recent GIS pet project is deployed at [SG Routing App](https://sg-routing-app.glitch.me/). A by-product created while reasoning behind the infamous "Travelling Salesman Problem" ⇉⇈🚦⇈⇉
+- 🚘 Another recent GIS pet project deployed at [SG Routing App](https://sg-routing-app.glitch.me/). A by-product created while reasoning behind the infamous "Travelling Salesman Problem" ⇉⇈🚦⇈⇉
 
 - 🏙️ 1 of the GIS side project I intend to deep-dive into is 3D Geospatial modelling. A first-cut can be found at  [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
 
