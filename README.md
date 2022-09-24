@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Charmaine. A Data Analyst & Web Developer from Singapore.</h1>
-<h3 align="center">Currently in Healthcare Analytics | Likes exploring 🌐 GIS-related technology</h3>
+<h1 align="center">Hi 👋 I'm Charmaine. A Data Analyst & Web + Software Developer from Singapore.</h1>
+<h3 align="center">Currently in 💉 Healthcare Analytics | Likes Exploring 🌐 GIS-related Technology | Creates Open-sourced 🧰 Digital Productivity Tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incubated-geek-cc&label=Profile%20views&color=0e75b6&style=flat" alt="incubated-geek-cc" /> </p>
 
@@ -7,31 +7,32 @@
 
 <p align="left"> <a href="https://twitter.com/incubatedgeekcc" target="blank"><img src="https://img.shields.io/twitter/follow/incubatedgeekcc?logo=twitter&style=for-the-badge" alt="incubatedgeekcc" /></a> </p>
 
-- 🛠️ I usually create open-sourced tools to make others' lives easier. E.g. I create Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.herokuapp.com/)
+‣ 🛠️ Usually builds open-sourced applications to make others' lives easier. E.g. Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.herokuapp.com/)
 
-- 👩🏻‍💻 I work within constraints and excel at finding loopholes in systems. Feel free to fork my application at [File Link Encoder](https://github.com/incubated-geek-cc/file-link-encoder). To know its full secrets please read my short article at [Email .exe files in 2021](https://medium.com/geekculture/this-is-how-you-can-email-exe-or-bat-files-in-3-steps-in-the-year-2021-c0aa482e9e1)
+‣ A handful of side projects are GIS-centric
+  • Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
+  • 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
+  • Exploring the ❝Travelling Salesman Problem❞ ⇉⇈🚦⇈⇉: [SG Routing App](https://sg-routing-app.glitch.me/)
 
-- 🚍 I do GIS-related side projects. Here is a real-time Bus Arrival exploration piece I created at [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
+‣ Eager to contribute more 👨‍⚕️👩‍⚕️ Healthcare Domains inclusive of 🏥🚑 Medical Facilities & Services❟ 🩺 Clinical Outcomes❟ 💊 Pharmaceuticals as well as other related sub-segments
+  • A Pharmaceutical-related pet project (WIP): [Exploring & Crawling Compiled DrugBank Data](https://github.com/incubated-geek-cc/DrugBankAPICrawler)
 
-- 🚘 Another recent GIS pet project deployed at [SG Routing App](https://sg-routing-app.glitch.me/). A by-product created while reasoning behind the infamous "Travelling Salesman Problem" ⇉⇈🚦⇈⇉
+‣ Enthusiastic in Data Visualisation; specifically 🖼️ Dashboarding! [Tableau Profile](https://public.tableau.com/app/profile/charmaine.chui)
+  • Side project recounts and technical implementations
+  • Useful Tips in Web Development (JavaScript & HTML code snippets)
+  
+‣ Technical writer who regularly post 📝 articles on [Medium](https://medium.com/@geek-cc)
 
-- 🏙️ 1 of the GIS side project I intend to deep-dive into is 3D Geospatial modelling. A first-cut can be found at  [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
+‣ 📌 Fun fact **I do wire-crafting in my leisure time**
 
-- 💊 I am also eager to contribute more to the field of healthcare analytics. 1 of my side-projects involving Pharmaceutical Drug Data analytics has been kickstarted at [Exploring & Crawling Compiled DrugBank Data](https://github.com/incubated-geek-cc/DrugBankAPICrawler)
-
-- 🖼️ All my Tableau dashboards are available at [https://public.tableau.com/app/profile/charmaine.chui](https://public.tableau.com/app/profile/charmaine.chui)
-
-- 📝 I regularly write articles on [https://medium.com/@geek-cc](https://medium.com/@geek-cc)
-
-- ⚡ Fun fact **I do wire-crafting in my leisure time**
-
-- 🌱 **I am also a firm believer of lifelong learning**
+- 🎓 **I am also a firm believer of lifelong learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/incubatedgeekcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incubatedgeekcc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charmaine chui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine chui" height="30" width="40" /></a>
 <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geek-cc" height="30" width="40" /></a>
+<a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAj5JREFUaEPtmktKBDEQhr9xpSgKioKH8ALeQtyLgngET+DOhQcQFT2AeAn3HsPHCL5AVyoZbOlHHpVOpWmGdmkn9ddXValOJzNC/+8ZWA6YfQOWNKVHCsYugN1EOzfAVoqNFJCfFGHP3FY+tZmUC6DOFuVbzGAz9jtTFlxmZwBR4KQg78BCxxCFnNFeDGlLQEQRCQkpPPf6GgLpC0QRB6e/PpC+QXhhXCBaa6JuXyM41pepDUSzO+UAMZlpdDMbiEbUjFhO2w37uSLWBUhFIxeI60Wmle3Gwi+DaIq4moimRgUmB0jXLX2iV4ieA3u5377SfVOkH9fAdgGSmvJD4FjgQKqOS2KkARLa5gj4ZDtc3zfMVIGMgRVJ2Bxj+pCRV+NEat32AWTStQaQv1KbmozEHBqkZt+5lDVKawBJ6JSNqUNGfG9Zz7Osa+QRWFVMc9e7X+P6WGOL0ofFrrJpHEA0y7korUtgR8lw12vkFDjo+lPXxKreuUwArxKCWPnUtQm0tT0HfEVOTmnLDRBNmNiN5CcwGwlfPnNonAamRKbsxzpwH+lYG+3/gOU81ozNSixIxb5NzPxP64pNctt0C2xGZk90iG1sfgDzkcZDw0+AI+AF2ADuQhMcz63B6brnt/S9Ms3qc6iOY+tWw1GfDae/IRDNlpwK6fVVApJrzUjBJA3DeqvkEtDsZlII9R8MlIW7WjfSapn4FjW4FsZcQK18ajWpBqRxt3IG7EvrzTZOA6Ru9wFYCzj1JBgTxfULXMlqBtro0EUAAAAASUVORK5CYII=" alt="geek-cc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🖋 <a href="https://medium.com/@geek-cc" target="blank">Medium</a> publications I write for include:</h3>
@@ -42,9 +43,9 @@
 <a href="https://medium.com/geekculture" target="blank"><img align="center" src="https://cdn-images-1.medium.com/fit/c/90/90/1*bWAVaFQmpmU6ePTjNIje_A.jpeg" alt="Geek Culture" height="30" width="30" /></a>
 </p>
 
-<h3 align="left"> Buy me a Coffee!</h3>
+<h3 align="left"> Buy me a Taco!</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/geekcc" target="blank">🔗☕ geekcc</a>
+<a href="https://www.buymeacoffee.com/geekcc" target="blank">🔗🌮 geekcc</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
