@@ -9,7 +9,7 @@
 
 ‣ 🛠️ Usually builds open-sourced applications to make others' lives easier. E.g. Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.herokuapp.com/)
 
-‣ A handful of side projects are GIS-centric
+‣ A handful of side projects are GIS-centrics
   • Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
   • 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
   • Exploring the ❝Travelling Salesman Problem❞ ⇉⇈🚦⇈⇉: [SG Routing App](https://sg-routing-app.glitch.me/)
@@ -25,7 +25,7 @@
 
 ‣ 📌 Fun fact **I do wire-crafting in my leisure time**
 
-- 🎓 **I am also a firm believer of lifelong learning**
+‣ 🎓 **I am also a firm believer of lifelong learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
