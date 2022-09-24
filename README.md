@@ -10,16 +10,16 @@
 ‣ 🛠️ Usually builds open-sourced applications to make others' lives easier. E.g. Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.herokuapp.com/)
 
 ‣ A handful of side projects are GIS-centrics
-  • Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
-  • 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
-  • Exploring the ❝Travelling Salesman Problem❞ ⇉⇈🚦⇈⇉: [SG Routing App](https://sg-routing-app.glitch.me/)
+  <br>• Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
+  <br>• 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
+  <br>• Exploring the ❝Travelling Salesman Problem❞ ⇉⇈🚦⇈⇉: [SG Routing App](https://sg-routing-app.glitch.me/)
 
 ‣ Eager to contribute more 👨‍⚕️👩‍⚕️ Healthcare Domains inclusive of 🏥🚑 Medical Facilities & Services❟ 🩺 Clinical Outcomes❟ 💊 Pharmaceuticals as well as other related sub-segments
-  • A Pharmaceutical-related pet project (WIP): [Exploring & Crawling Compiled DrugBank Data](https://github.com/incubated-geek-cc/DrugBankAPICrawler)
+  <br>• A Pharmaceutical-related pet project (WIP): [Exploring & Crawling Compiled DrugBank Data](https://github.com/incubated-geek-cc/DrugBankAPICrawler)
 
 ‣ Enthusiastic in Data Visualisation; specifically 🖼️ Dashboarding! [Tableau Profile](https://public.tableau.com/app/profile/charmaine.chui)
-  • Side project recounts and technical implementations
-  • Useful Tips in Web Development (JavaScript & HTML code snippets)
+  <br>• Side project recounts and technical implementations
+  <br>• Useful Tips in Web Development (JavaScript & HTML code snippets)
   
 ‣ Technical writer who regularly post 📝 articles on [Medium](https://medium.com/@geek-cc)
 
