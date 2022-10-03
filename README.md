@@ -11,7 +11,7 @@
 
 ‣ A handful of side projects are GIS-centrics
   <br>• Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.herokuapp.com/)
-  <br>• 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-in-three-d.herokuapp.com/)
+  <br>• 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-building-layer-in-3d.onrender.com/)
   <br>• Exploring the ❝Travelling Salesman Problem❞ ⇉⇈🚦⇈⇉: [SG Routing App](https://sg-routing-app.glitch.me/)
 
 ‣ Eager to contribute more 👨‍⚕️👩‍⚕️ Healthcare Domains inclusive of 🏥🚑 Medical Facilities & Services❟ 🩺 Clinical Outcomes❟ 💊 Pharmaceuticals as well as other related sub-segments
