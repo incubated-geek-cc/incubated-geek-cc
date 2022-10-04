@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/incubatedgeekcc" target="blank"><img src="https://img.shields.io/twitter/follow/incubatedgeekcc?logo=twitter&style=for-the-badge" alt="incubatedgeekcc" /></a> </p>
 
-‣ 🛠️ Usually builds open-sourced applications to make others' lives easier. E.g. Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.glitch.me/)
+‣ 🛠️ Usually builds open-sourced applications to make others' lives easier. E.g. Tableau utilities at [Tableau Data Utility](https://tableau-data-utility.onrender.com/)
 
 ‣ A handful of side projects are GIS-centrics
   <br>• Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.glitch.me/)
