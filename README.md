@@ -13,7 +13,7 @@
   <br>• Real-time 🚍 Bus ETA: [SG Bus Transportation](https://sg-transportation.glitch.me/)
   <br>• 🏙️ 3D Residential Map Layer (Prototype): [SG HDB Building Layer in 3D](https://sg-hdb-building-layer-in-3d.onrender.com/)
   <br>• Exploring the ❝Travelling Salesman Problem❞ ⇉⇈🚦⇈⇉: [SG Routing App](https://sg-routing-app.glitch.me/)
-  <br>• 💽 Transcoding Audio/Video with FFmpeg into other multimedia formats [Media Transcoder](https://ffmpegwasm.glitch.me/)
+  <br>• 💽 Transcoding Audio/Video with FFmpeg into other multimedia formats [Media Transcoder](https://ffmpegwasm.glitch.me/)<br>
 ‣ Eager to contribute more 👨‍⚕️👩‍⚕️ Healthcare Domains inclusive of 🏥🚑 Medical Facilities & Services❟ 🩺 Clinical Outcomes❟ 💊 Pharmaceuticals as well as other related sub-segments
   <br>• A Pharmaceutical-related pet project (WIP): [Exploring & Crawling Compiled DrugBank Data](https://github.com/incubated-geek-cc/DrugBankAPICrawler)
 
