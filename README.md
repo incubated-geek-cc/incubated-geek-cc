@@ -32,7 +32,7 @@
 <a href="https://twitter.com/incubatedgeekcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incubatedgeekcc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charmaine chui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine chui" height="30" width="40" /></a>
 <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geek-cc" height="30" width="40" /></a>
-<a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2022%2F03%2F50%2F623c128c4e665.png" alt="geek-cc" height="30" width="40" /></a>
+<a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="https://static.tumblr.com/internal/1676402590/tumblr_sponsored_day_hero_web_pre.png" alt="geek-cc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🖋 <a href="https://medium.com/@geek-cc" target="blank">Medium</a> publications I write for include:</h3>
