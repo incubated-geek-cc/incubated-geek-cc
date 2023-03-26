@@ -49,4 +49,4 @@
   <a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="https://static.tumblr.com/internal/1676402590/tumblr_sponsored_day_hero_web_pre.png" alt="geek-cc" height="30" width="40" /></a>
 </p>
 
-<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="buy_me_a_taco.png" /></a></p>
+<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="buy_me_a_taco.png" alt="Buy me a taco!" width="200" /></a></p>
