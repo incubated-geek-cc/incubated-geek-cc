@@ -1,15 +1,15 @@
-<h1 align="left">Hi there 👋 I'm Charmaine and thanks for paying a visit!</h1>
-<h3 align="left">Data Analyst | Web Developer | Technical Writer</h3>
+<h1 align="left">Hi there 👋 I'm Charmaine — aka ξ(🎀˶❛◡❛) ᵀᴴᴱ ᴿᴵᴮᴮᴼᴺ ᴳᴵᴿᴸ</h1>
+<h3 align="left">👩‍💻 Data Analyst | Web Developer | ✍️ Technical Writer</h3>
 <h4 align="left">Domain expertise include:</h4>
 <ul>
   <li>🌐 Geospatial & GIS-related applications</li>
-  <li>💉 Healthcare Analytics e.g. 🩺 Clinical Outcomes, 💊 Pharmaceuticals</li>
+  <li>💉 Healthcare Analytics (e.g. 🩺 Clinical Outcomes, 💊 Pharmaceuticals)</li>
 </ul>
 
 <h2 align="center">🎓 ❝Firm believer of lifelong learning❞— Personal Motto</h2>
 
 <h3 align="left">📘 Some side projects* include:</h3>
-* Creates side projects for 2 reasons— (1) <b>Learning</b>; and (2) <b>Create open-sourced tools to better the lives of others</b>
+* 2 motivations behind side projects: <u>(1) Learning</u> and <u>(2) Create open-sourced tools to better the lives of others</u>
 
 <h4 align="left">Geospatial Analytics</h4>
 <ul>
@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=incubated-geek-cc&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=incubated-geek-cc&show_icons=true" alt="GitHub Stats" /></p>
   
-<h3 align="left">Connect with me — aka ξ(🎀˶❛◡❛) ᵀᴴᴱ ᴿᴵᴮᴮᴼᴺ ᴳᴵᴿᴸ</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://twitter.com/incubatedgeekcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incubatedgeekcc" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/charmaine chui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine chui" height="30" width="40" /></a>
