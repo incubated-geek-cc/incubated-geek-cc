@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 I'm Charmaine — <small>aka ξ(🎀˶❛◡❛) ᵀᴴᴱ ᴿᴵᴮᴮᴼᴺ ᴳᴵᴿᴸ</small></h1>
+<h1 align="left">Hi there 👋 I'm Charmaine — aka ξ(🎀˶❛◡❛) ᵀᴴᴱ ᴿᴵᴮᴮᴼᴺ ᴳᴵᴿᴸ</h1>
 <h3 align="left">👩‍💻 Data Analyst | Web Developer | ✍️ Technical Writer</h3>
 <h3 align="left">Domain expertise include:</h3>
 <ul>
@@ -14,7 +14,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/2" alt="Recent Article 2"></a>
 
 <h3 align="left">📘 List of side projects*</h3>
-*2 motivations behind side projects: (1) 👩‍🎓 Learning and (2) Create open-sourced tools to better the lives of others 🌈
+*2 motivations behind side projects: (1) 🤓 Learning and (2) Create open-sourced tools to better the lives of others 🌈
  
 <h4 align="left">Geospatial Analytics</h4>
 <ul>
@@ -49,4 +49,4 @@
   <a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="https://static.tumblr.com/internal/1676402590/tumblr_sponsored_day_hero_web_pre.png" alt="geek-cc" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="buy_me_a_taco.png" alt="Buy me a taco!" width="160" /></a></p>
+<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="buy_me_a_taco.png" alt="Buy me a taco!" width="160" /></a> — Would appreciate it 😋</p>
