@@ -25,8 +25,8 @@
   
 <h4 align="left">Built with WebAssembly (Wasm) or A.I. Tools</h4>
 <ul>
-  <li>🔎🌐 Web-based PDF & Image Text Extraction (with Tesseract OCR) + Speech Synthesis: <a target="_blank" href="https://incubated-geek-cc.github.io/Text-To-Speech-App/">Text-to-Speech Web App</a></li>
-  <li>📰🔍 PDF & Image Text Extraction (with Tesseract OCR): <a target="_blank" href="https://github.com/incubated-geek-cc/Tess4JOcrApp">Tesseract OCR Java App</a></li>
+  <li>『🔎🗚』PDF & Image Text Extraction (with Tesseract OCR) + 🗣Speech Synthesis: <a target="_blank" href="https://incubated-geek-cc.github.io/Text-To-Speech-App/">Text-to-Speech Web App</a></li>
+  <li>『🗛🔍』PDF & Image Text Extraction (with Tesseract OCR): <a target="_blank" href="https://github.com/incubated-geek-cc/Tess4JOcrApp">Tesseract OCR Native Java App</a></li>
   <li>🔌 Offline browser-based SQLite Database: <a target="_blank" href="https://incubated-geek-cc.github.io/SQLiteBrowserUtility/">SQLite Web Utility</a></li>
   <li>💽 Transcoding Audio/Video with FFmpeg into other multimedia formats: <a target="_blank" href="https://ffmpegwasm.glitch.me/">Media Transcoder Web App</a></li>
 </ul>
