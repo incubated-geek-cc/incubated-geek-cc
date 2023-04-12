@@ -46,7 +46,7 @@
 <h2 align="left">🤝 Connect with me</h2>
 <p align="left">
   <a href="https://twitter.com/incubatedgeekcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incubatedgeekcc" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/charmaine chui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine chui" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/charmaine-chui-15133282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine chui" height="30" width="40" /></a>
   <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geek-cc" height="30" width="40" /></a>
   <a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="https://static.tumblr.com/internal/1676402590/tumblr_sponsored_day_hero_web_pre.png" alt="geek-cc" height="30" width="40" /></a>
 </p>
