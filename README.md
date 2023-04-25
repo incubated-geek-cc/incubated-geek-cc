@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 I'm Charmaine — aka ξ(🎀˶❛◡❛) ᵀᴴᴱ ᴿᴵᴮᴮᴼᴺ ᴳᴵᴿᴸ</h1>
+<h1 align="left">Hi there 👋 I'm Charmaine — ᵃᵏᵃ ξ(🎀˶❛◡❛) ᵀᴴᴱ ᴿᴵᴮᴮᴼᴺ ᴳᴵᴿᴸ</h1>
 <h3 align="left">👩‍💻 Data Analyst | Web Developer | ✍️ Technical Writer</h3>
 <h3 align="left">Domain expertise include:</h3>
 <ul>
