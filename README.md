@@ -9,9 +9,9 @@
 <h2 align="left">🎓 ❝Firm believer of lifelong learning❞</h2>
 
 <h3 align="left">📝 Recent posts on <a target="_blank" href="https://medium.com/@geek-cc">Medium</a></h3>
-<p>№𝟷 <a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">Generate Icon Images From Font Symbols Using Vanilla JavaScript</a>✏️</p>
-<p>№𝟸 <a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">6 Useful HTML Features You Probably Forgot Existed</a>✏️</p>
-<p>№𝟹 <a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript</a>✏️</p>
+<p><strong>№𝟷</strong> <a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">Generate Icon Images From Font Symbols Using Vanilla JavaScript</a>✏️</p>
+<p><strong>№𝟸</strong> <a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">6 Useful HTML Features You Probably Forgot Existed</a>✏️</p>
+<p><strong>№𝟹</strong> <a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript</a>✏️</p>
 
 <h3 align="left">🧰 <a target="_blank" href="https://incubated-geek-cc.github.io/">[Github Pages ∷ Link ∷ Other productivity tools]</a></h3>
 
@@ -44,11 +44,10 @@
 
 <h2 align="left">🤝 Connect with me</h2>
 <p align="left">
-  <a href="https://twitter.com/incubatedgeekcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incubatedgeekcc" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/charmaine-chui-15133282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine chui" height="30" width="40" /></a>
-  <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@geek-cc" height="30" width="40" /></a>
-  <a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="https://static.tumblr.com/internal/1676402590/tumblr_sponsored_day_hero_web_pre.png" alt="geek-cc" height="30" width="40" /></a>
+  <a href="https://twitter.com/incubatedgeekcc" target="blank"><img align="center" src="twitter-logo.svg" alt="incubatedgeekcc" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/charmaine-chui-15133282/" target="blank"><img align="center" src="linkedin-logo.svg" alt="charmaine chui" height="50" width="50" /></a>
+  <a href="https://medium.com/@geek-cc" target="blank"><img align="center" src="medium-logo.svg" alt="@geek-cc" height="50" width="50" /></a>
+  <a href="https://www.tumblr.com/blog/geek-cc" target="blank"><img align="center" src="tumblr-logo.svg" alt="geek-cc" height="50" width="50" /></a>
 </p>
-<br>
-<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="buy_me_a_taco.png" alt="Buy me a taco!" width="160" /></a></p>
+<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="buy_me_a_taco.png" alt="Buy me a taco!" height="50" /></a></p>
 — Would appreciate it 😋
