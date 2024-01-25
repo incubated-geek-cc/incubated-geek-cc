@@ -9,15 +9,15 @@
 <h2 align="left">🎓 ❝Firm believer of lifelong learning❞</h2>
 
 <h3 align="left">📝 Recent posts on <a target="_blank" href="https://medium.com/@geek-cc">Medium</a></h3>
-<a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">
+<p></p><a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">
   1️⃣ Generate Icon Images From Font Symbols Using Vanilla JavaScript ✏️
-</a>
-<a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">
+</a></p>
+<p><a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">
   2️⃣ 6 Useful HTML Features You Probably Forgot Existed ✏️
-</a>
-<a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">
+</a></p>
+<p><a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">
   3️⃣ How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript ✏️
-</a>
+</a></p>
 
 <h3 align="left">🧰 <a target="_blank" href="https://incubated-geek-cc.github.io/">[Github Pages ∷ Link]</a></h3>
 
