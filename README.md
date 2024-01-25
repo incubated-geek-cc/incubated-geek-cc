@@ -9,11 +9,11 @@
 <h2 align="left">🎓 ❝Firm believer of lifelong learning❞</h2>
 
 <h3 align="left">📝 Recent posts on <a target="_blank" href="https://medium.com/@geek-cc">Medium</a></h3>
-<p>1️⃣ <a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">Generate Icon Images From Font Symbols Using Vanilla JavaScript</a>✏️</p>
-<p>2️⃣ <a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">6 Useful HTML Features You Probably Forgot Existed</a>✏️</p>
-<p>3️⃣ <a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript</a>✏️</p>
+<p>№1️⃣ <a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">Generate Icon Images From Font Symbols Using Vanilla JavaScript</a>✏️</p>
+<p>№2️⃣ <a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">6 Useful HTML Features You Probably Forgot Existed</a>✏️</p>
+<p>№3️⃣ <a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript</a>✏️</p>
 
-<h3 align="left">🧰 <a target="_blank" href="https://incubated-geek-cc.github.io/">[Github Pages ∷ Link]</a></h3>
+<h3 align="left">🧰 <a target="_blank" href="https://incubated-geek-cc.github.io/">[Github Pages ∷ Link ∷ Other productivity tools]</a></h3>
 
 <h3 align="left">📘 List of side projects*</h3>
 *2 motivations behind side projects: (1) 🤓 Learning and (2) Create open-sourced tools to better the lives of others 🌈
