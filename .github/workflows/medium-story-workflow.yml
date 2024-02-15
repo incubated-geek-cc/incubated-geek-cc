@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: incubated-geek-cc/blog-post-workflow@main
+      - uses: incubated-geek-cc/incubated-geek-cc@main
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
           feed_list: "https://medium.com/feed/@geek-cc"
