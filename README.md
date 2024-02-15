@@ -9,6 +9,11 @@
 <h2 align="left">🎓 ❝Firm believer of lifelong learning❞</h2>
 
 <h3 align="left">📝 Recent posts on <a target="_blank" href="https://medium.com/@geek-cc">Medium</a></h3>
+
+### 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
 <p><strong>№𝟷</strong> <a target="_blank" href="https://javascript.plainenglish.io/generate-icon-images-from-font-symbols-using-vanilla-javascript-b8da434378ee">Generate Icon Images From Font Symbols Using Vanilla JavaScript</a>✏️</p>
 <p><strong>№𝟸</strong> <a target="_blank" href="https://javascript.plainenglish.io/6-useful-html-features-you-probably-forgot-existed-f731175846c0">6 Useful HTML Features You Probably Forgot Existed</a>✏️</p>
 <p><strong>№𝟹</strong> <a target="_blank" href="https://javascript.plainenglish.io/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2">How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript</a>✏️</p>
