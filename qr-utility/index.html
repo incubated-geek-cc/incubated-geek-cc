@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang='en' class='notranslate' translate='no'>
+<head>
+    <meta name='google' content='notranslate' />
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' />
+    <meta http-equiv='X-UA-Compatible' content='IE=Edge,chrome=1' />
+    <meta http-equiv='Content-Language' content='en' />
+        <title>QR Code Generator & Reader</title>
+        <script type="text/javascript" defer src="qrcode.js"></script>
+        <link href="index.css" rel="stylesheet" type="text/css" />
+        <style>
+            .icon {
+                display: inline-block;
+                width: 1em;
+                height: 1em;
+                stroke-width: 0;
+                stroke: currentColor;
+                fill: currentColor
+            }
+
+            label.form-check-label {
+                font-size: 15px
+            }
+
+            .navbar-dark .navbar-nav .active>.nav-link,.navbar-dark .navbar-nav .nav-link.active,.navbar-dark .navbar-nav .nav-link.show,.navbar-dark .navbar-nav .show>.nav-link {
+                color: #212529
+            }
+
+            .dropdown-item.active {
+                color: #212529;
+                text-decoration: none;
+                background-color: transparent
+            }
+
+            img {
+                border: 0
+            }
+
+            #qr-main {
+                margin: 0 auto;
+                background: #fff;
+                overflow: auto;
+                width: 100%
+            }
+
+            #qr-header {
+                background: #fff;
+                margin-bottom: 0
+            }
+
+            #qr-mainbody {
+                background: #fff;
+                width: 100%;
+                display: none
+            }
+
+            #qr-canvas {
+                display: none
+            }
+
+            #qrfile {
+                width: 314px;
+                height: 250px
+            }
+
+            #mp1 {
+                text-align: center;
+                font-size: 35px
+            }
+
+            #imghelp {
+                position: relative;
+                left: 0;
+                top: -160px;
+                z-index: 100;
+                font: 18px arial,sans-serif;
+                background: #f0f0f0;
+                margin-left: 35px;
+                margin-right: 35px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border-radius: 20px
+            }
+
+            .selector {
+                margin: 0;
+                padding: 0;
+                cursor: pointer;
+                margin-bottom: -5px
+            }
+
+            #qr-outdiv {
+                width: 320px;
+                height: 256px;
+                border: solid;
+                border-width: 3px;
+                margin: 10px auto
+            }
+
+            #qr-result {
+                margin: 5px 0;
+                padding: 0;
+                font-size: .75rem;
+                font-weight: 400;
+                line-height: 1.5;
+                background-clip: padding-box;
+                border: 1px solid #ced4da;
+                overflow: auto;
+                white-space: pre-line
+            }
+
+            #qrimage {
+                text-align: center;
+                text-align: -webkit-center
+            }
+
+            #qrimage img {
+                display: block;
+                margin: 10px auto
+            }
+
+            #qr_data {
+                resize: none
+            }
+
+            .tsel {
+                padding: 0;
+                height: 100%
+            }
+
+            div.row.card-body div.col-sm-6:first-child {
+                border: 1px ridge #e9e9e9;
+                padding-top: 5px;
+                padding-bottom: 5px
+            }
+
+            h4.card-title {
+                width: min-content;
+                white-space: nowrap
+            }
+        </style>
+    </head>
+    <body>
+        <blockquote class="blockquote blockquote-reverse">
+            <p>An Offline Browser Utility | QR Code Generator/Reader</p>
+            <footer class="blockquote-footer">
+                Ideal for embedding site links etc. Adapted from <a href="https://webqr.com/" target="blank">here</a>
+            </footer>
+        </blockquote>
+        <div class="card rounded-0">
+            <div class="row card-body">
+                <div class="col-sm-6">
+                    <h5>Proceed to Generate QR Code</h5>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h4 class="card-title">
+                                Input <code>URL</code>
+                                or <code>Text</code>
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <textarea id="qr_data" autofocus spellcheck class="form-control input-xs rounded-0" name="qr_data">http://jindo.dev.naver.com/collie</textarea>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <div id="qrimage"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-1"></div>
+                        <div class="col-sm-4">
+                            <button id="generateQRCodeBtn" type="button" class="btn btn-outline-secondary btn-sm rounded-0 w-100">Generate</button>
+                        </div>
+                        <div class="col-sm-2"></div>
+                        <div class="col-sm-4">
+                            <button id="exportImageQRCodeOutputBtn" type="button" class="btn btn-outline-info btn-sm rounded-0 w-100">Export</button>
+                        </div>
+                        <div class="col-sm-1"></div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <h5>Proceed to Input QR Code</h5>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h4 class="card-title">
+                                Output <code>URL</code>
+                                or <code>Text</code>
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <div id="qr-main">
+                                <div id="qr-mainbody">
+                                    <table class="tsel w-100" border="0">
+                                        <tr>
+                                            <td colspan="3" align="center">
+                                                <div id="qr-result" class="w-100 rounded-0"></div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="center" width="50%">
+                                                <table class="tsel" border="0">
+                                                    <tr>
+                                                        <td colspan="2" align="center">
+                                                            <div id="qr-outdiv"></div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                            <canvas id="qr-canvas" width="800" height="600"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', async() => {
+                console.log('DOMContentLoaded');
+                const qrMainbody=document.getElementById("qr-mainbody");
+                const qrResult=document.getElementById("qr-result");
+                const qrImageContainer = document.getElementById("qrimage");
+                const exportQRImageBtn = document.getElementById("exportImageQRCodeOutputBtn");
+                const generateQRCodeBtn = document.getElementById("generateQRCodeBtn");
+                const qrDataInput = document.getElementById("qr_data");
+                const qrDIV=document.getElementById("qr-outdiv");
+
+                const qrHeight = 256;
+                const qrWidth = 256;
+                const qrimage = new QRCode("qrimage", {
+                    text: qrDataInput,
+                    width: qrWidth,
+                    height: qrHeight,
+                    colorDark: "#000000",
+                    colorLight: "#ffffff",
+                    correctLevel: QRCode.CorrectLevel.H
+                });
+                function create() {
+                    qrimage.makeCode(qrDataInput.value);
+                }
+                function setimg() {
+                    let e;
+                    qrResult.innerHTML = "",
+                    2 != stype && (qrDIV.innerHTML = imghtml,
+                    (e = document.getElementById("qrfile")).addEventListener("dragenter", dragenter, !1),
+                    e.addEventListener("dragover", dragover, !1),
+                    e.addEventListener("drop", drop, !1),
+                    stype = 2)
+                }
+
+                function load() {
+                    if(isCanvasSupported() && window.File && window.FileReader) {
+                        initCanvas(800, 600);
+                        qrcode.callback = read;
+                        qrMainbody.style.display = "inline";
+                        qrMainbody.style.display = "inline";
+                        setimg();
+                    } else {
+                        qrMainbody.style.display = "inline";
+                        qrMainbody.innerHTML = '<p id="mp1">QR code scanner for HTML5 capable browsers</p><br><br><p id="mp2">sorry your browser is not supported</p><br><br><p id="mp1">try <a href="http://www.mozilla.com/firefox"><img src="firefox.png"/></a> or <a href="http://chrome.google.com"><img src="chrome_logo.gif"/></a> or <a href="http://www.opera.com"><img src="Opera-logo.png"/></a></p>';
+                    }
+                }
+                
+                qrResult.style.height = qrDataInput.offsetHeight + "px";
+                load();
+                qrimage.clear();
+                create();
+                
+                generateQRCodeBtn.addEventListener('click', ()=> {
+                    create();
+                });
+                
+                exportQRImageBtn.addEventListener('click', (e) => {
+                    const t = qrImageContainer.getElementsByTagName("img")[0].src;
+                    if (window.Blob) {
+                        let e = document.createElement("a");
+                        e.download = "qr_code.png",
+                        e.innerHTML = "Download File",
+                        e.href = t,
+                        e.style.display = "none",
+                        document.body.appendChild(e),
+                        e.click(),
+                        document.body.removeChild(e)
+                    } else {
+                        alert("Your browser does not support HTML5 'Blob' function required to save a file.");
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

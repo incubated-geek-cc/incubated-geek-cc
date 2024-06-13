@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Geospatial Data Utility</title>
+    <style>
+    html, body {
+    	padding:0;
+    	border:0;
+    }
+    body {
+    	height:100vh;
+    	width:100vw;
+    	overflow-x:hidden;
+    	overflow-y:auto;
+    }
+    table,
+    table th,
+    table td {
+    	font-family:"consolas";
+    	vertical-align:top;
+    }
+    #outputText {
+    	width:100%;
+    	height:55vh;
+    	resize:none;
+    	overflow-x:hidden;
+    	overflow-y:auto;
+    }
+    #outputSpatialFormatFileNameVal {
+    	width:90%;
+    }
+    select, input {
+    	width:90%;
+    	margin:0;
+    }
+    #convertBtn {
+    	width:25%;
+    }
+    </style>
+</head>
+<body>
+	<noscript>You need to enable JavaScript to run this app.</noscript>
+	<table>
+		<tr>
+			<td colspan='3'><h2>🌐 Spatial File Format Convertor</h2></td>
+		</tr>
+		<tr>
+			<td><b>Select Input Format:</b></td>
+			<th></th>
+			<td><b>Select Output Format:</b></td>
+		</tr>
+		<tr>
+			<td>
+				<select id="inputSpatialFormat">
+					<option value="GEOJSON">GEOJSON</option>
+					<option value="KML">KML</option>
+					<option value="SHP">SHP</option>
+				</select>
+			</td>
+			<th></th>
+			<td>
+				<select id="outputSpatialFormat">
+					<option value="GEOJSON">GEOJSON</option>
+					<option value="KML">KML</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">📂 <input id="inputSpatialFormatBtn" type="file" multiple="false" accept=".zip,.geojson,.json,.kml" /></td>
+		</tr>
+		<tr>
+			<td align="right" colspan="3"><button id="convertBtn" class="btn btn-outline-warning rounded-0">Convert ➣</button></td>
+		</tr>
+		<tr>
+			<td align="right">
+				<button id="saveBtn" class="btn btn-outline-success rounded-0">💾&nbsp;Save&nbsp;As</button>
+			</td>
+			<td><input id="outputSpatialFormatFileNameVal" type="text" /></td>
+			<td><span id="outputSpatialFormatFileExt">.geojson</span></td>
+		</tr>
+		<tr><td colspan='3'><textarea id="outputText" disabled>Conversion Output Here.</textarea></td></tr>
+	</table>
+	<script type="text/javascript" src="js/shp.min.js"></script>
+	<script type="text/javascript" src="js/KMLStrtoGeoJSON.js"></script>
+	<script type="text/javascript" src="js/to_kml.js"></script>
+	<script type="text/javascript">
+		var inputSpatialFormat=document.getElementById("inputSpatialFormat");
+		var outputSpatialFormat=document.getElementById("outputSpatialFormat");
+
+		var inputSpatialFormatBtn=document.getElementById("inputSpatialFormatBtn");
+		var outputSpatialFormatFileNameVal=document.getElementById("outputSpatialFormatFileNameVal");
+
+		outputSpatialFormat.onchange=function(e) {
+			let outputFormatVal=outputSpatialFormat.value;
+			outputSpatialFormatFileExt.innerText=extMapper[outputFormatVal];
+		};
+
+		var convertBtn=document.getElementById("convertBtn");
+
+		var extMapper={
+			"SHP":".zip",
+			"KML":".kml",
+			"GEOJSON":".geojson"
+		};
+		var inputSpatialFileIs;
+		var outputSpatialFileIs;
+
+		var inputGeoJSONObj;
+		var outputText=document.getElementById("outputText");
+
+		convertBtn.onclick = function(e) {
+			let outputFormatVal=outputSpatialFormat.value;
+			outputSpatialFormatFileExt.innerHTML=extMapper[outputFormatVal];
+
+			(async () => {
+			  	let inputGeoJSONObj = await getInputGEOJSONObj();
+			  	if(outputFormatVal=="GEOJSON") {
+					outputText.value=JSON.stringify(inputGeoJSONObj,undefined,2);
+				} else if(outputFormatVal=="KML") {
+					outputText.value=tokml(inputGeoJSONObj);
+				}
+			})();
+		};
+
+		async function getInputGEOJSONObj() {
+			let inputFormatVal=inputSpatialFormat.value;
+			switch(inputFormatVal) {
+				case "SHP":
+					let shpPromiseObj=shp(inputSpatialFileIs);
+					let geojson=await shpPromiseObj;
+					return geojson;
+					break;
+				case "KML":
+					return KMLStrtoGeoJSON(inputSpatialFileIs);
+					break;
+				case "GEOJSON":
+					return JSON.parse(inputSpatialFileIs)
+					break;
+			}
+		}
+		
+		function setSpatialFileIs(spatialFormat,spatialFormatBtn,isInput) {
+			let formatVal=spatialFormat.value;
+
+			let fileName = spatialFormatBtn.value;
+	        fileName = fileName.split("\\")[2];
+	        let n = fileName.lastIndexOf(".");
+	        fileName = fileName.substring(0,n);
+	        
+	        outputSpatialFormatFileNameVal.value=fileName;
+	        let outputFormatVal=outputSpatialFormat.value;
+			outputSpatialFormatFileExt.innerHTML=extMapper[outputFormatVal];
+
+	        if (!window.FileReader) {
+	            alert("Your browser does not support HTML5 'FileReader' function required to open a file.");
+	        } else {
+	            let fileis = spatialFormatBtn.files[0];
+	            let fileredr = new FileReader();
+	            fileredr.onload = function (fle) {
+	                let filecont = fle.target.result;
+                	inputSpatialFileIs=filecont;
+	            };
+	            if(formatVal=="SHP") {
+	            	fileredr.readAsArrayBuffer(fileis);
+	            } else if(formatVal=="KML" || formatVal=="GEOJSON") {
+	            	fileredr.readAsText(fileis);
+	            }
+	        }
+		};
+		
+		inputSpatialFormatBtn.onchange = function(e) {
+			setSpatialFileIs(inputSpatialFormat, inputSpatialFormatBtn,true);
+        };
+
+        var saveBtn=document.getElementById("saveBtn");
+        var outputSpatialFormatFileName=document.getElementById("outputSpatialFormatFileNameVal");
+        saveBtn.onclick=function() {
+        	let txtContent=outputText.value;
+    	  	if (!window.Blob) {
+                alert("Your browser does not support HTML5 'Blob' function required to save a file.");
+            } else {
+                let textblob = new Blob([txtContent], {
+                    type: "text/plain"
+                });
+                let dwnlnk = document.createElement("a");
+                dwnlnk.download = outputSpatialFormatFileName.value + outputSpatialFormatFileExt.innerText;
+                dwnlnk.innerHTML = "Download File";
+                if (window.webkitURL != null) {
+                    dwnlnk.href = window.webkitURL.createObjectURL(textblob);
+                }
+                dwnlnk.click();
+            }
+        };
+	</script>
+</body>
+</html>
