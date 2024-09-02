@@ -38,12 +38,6 @@
 
 <p><sub>📑 <a href='https://towardsdatascience.com/geospatial-file-format-conversions-kml-shp-geojson-25261beb2153' target='_blank'>Geospatial Data File Format Conversions (KML, SHP, GeoJSON)</a>&nbsp;<a href="https://incubated-geek-cc.github.io/geospatial-data-convertors/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
 
-<h4>Last but not least...</h4>
-
-<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/0" alt="Latest Medium Article 0"></a></p>
-<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/2" alt="Latest Medium Article 1"></a></p>
-<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geek-cc/2" alt="Latest Medium Article 2"></a></p>
-
 <p>— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b></p>
 <br>
 <p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="https://github.com/incubated-geek-cc/incubated-geek-cc/raw/main/buy_me_a_taco.png" alt="Buy me a taco!" width="160" /></a></p>
