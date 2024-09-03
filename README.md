@@ -39,8 +39,6 @@
 <p><sub>📑 <a href='https://towardsdatascience.com/geospatial-file-format-conversions-kml-shp-geojson-25261beb2153' target='_blank'>Geospatial Data File Format Conversions (KML, SHP, GeoJSON)</a>&nbsp;<a href="https://incubated-geek-cc.github.io/geospatial-data-convertors/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
 
 <p><a target="_blank" href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" alt="Latest Article 0"></a></p>
-<p><a target="_blank" href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" alt="Latest Article 1"></a></p>
-<p><a target="_blank" href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" alt="Latest Article 2"></a></p>
 
 <p>— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b></p>
 <br>
