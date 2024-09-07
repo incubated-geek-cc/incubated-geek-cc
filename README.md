@@ -38,11 +38,11 @@
 
 <p><sub>📑 <a href='https://towardsdatascience.com/geospatial-file-format-conversions-kml-shp-geojson-25261beb2153' target='_blank'>Geospatial Data File Format Conversions (KML, SHP, GeoJSON)</a>&nbsp;<a href="https://incubated-geek-cc.github.io/geospatial-data-convertors/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
 
-<img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" alt="Latest Post 0" />
+<a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" alt="Latest Post 0" /></a>
 
-<img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" alt="Latest Post 1" />
+<a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" alt="Latest Post 1" /></a>
 
-<img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" alt="Latest Post 2" />
+<a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" alt="Latest Post 2" /></a>
 
 <p>— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b></p>
 <br>
