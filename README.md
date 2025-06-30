@@ -1,13 +1,15 @@
 <div align="left">
-
-  <h1>✏️ Latest Medium Posts</h1>
   
+  <h1>✏️ Latest Medium Posts</h1>
+
+  <!--
+  [![Charmaine Chui Medium](https://github-readme-medium.vercel.app/?username=geek-cc)](https://medium.com/@geek-cc)
   <a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" alt="Latest Post 0" /></a>
 
   <a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" alt="Latest Post 1" /></a>
 
   <a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" alt="Latest Post 2" /></a>
-
+  -->
   <p>— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b></p>
 
 </div>
