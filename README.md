@@ -1,60 +1,80 @@
-<div align="left">
-  
-  <h1>✏️ Latest Medium Posts</h1>
+# Charmaine Chui — `incubated-geek-cc`
 
-  <!--
-  [![Charmaine Chui Medium](https://github-readme-medium.vercel.app/?username=geek-cc)](https://medium.com/@geek-cc)
-  <a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/0" alt="Latest Post 0" /></a>
+**Offline-first, zero-install tooling.** Software that runs in a browser tab or a single
+executable, needs no server, no account, and no licence — because the environments I build
+for often can't have any of those.
 
-  <a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/1" alt="Latest Post 1" /></a>
+Data Analyst and software developer, seven years embedded at Singapore's Ministry of Health.
+Most of what I ship publicly is the generalised, non-confidential form of a problem I hit at
+work: extracting data from files nobody wants to open by hand, running a model where there's
+no GPU, or replacing a commercial licence with 200 lines of JavaScript. I keep the use-cases
+deliberately generic so they're reusable — that's the point of publishing them.
 
-  <a href="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" target="_blank"><img src="https://github-readme-medium-viewposts.vercel.app/api/medium/@geek-cc/2" alt="Latest Post 2" /></a>
-  -->
-  <p>— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b></p>
+📍 Singapore · [Medium](https://medium.com/@geek-cc) · [LinkedIn](https://www.linkedin.com/in/chui-charmaine-15133282) · [Tableau Public](https://public.tableau.com/app/profile/charmaine.chui/vizzes)
 
-</div>
+---
 
-<div align="center">
-  <img src="https://github.com/incubated-geek-cc/incubated-geek-cc.github.io/raw/main/logo.png" width="96" alt="logo">
+## Featured work
 
-  <h1>📄 GitHub Pages</h1>
+### 🎙️ [whisper-onnx](https://github.com/incubated-geek-cc/whisper-onnx)
+Speech-to-text that never leaves your machine. Runs OpenAI Whisper as ONNX models in the
+browser on WebGPU, falling back to WebAssembly where WebGPU isn't available. Genuinely
+offline — the ONNX Runtime artifacts are bundled rather than fetched from a CDN, which is
+why most published examples still break without a network connection.
+`TypeScript · onnxruntime-web · WebGPU · WASM`
 
-  <h2> — where all loose code snippets (e.g. HTML gists) tend to go…</h2>
+### 🗃️ [SQLiteBrowserUtility](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
+Inspect a `.sqlite` file by dragging it into a browser tab. No install, no server, no admin
+rights — which matters on locked-down corporate and government machines where you can't get
+DB Browser approved but still need to read a database today.
+`JavaScript · sql.js (WASM)`
 
-<div align="left">
-  <h3> 💬 ❝Every GitHub page has its own story to tell❞</h3>
-</div>
-</div>
+### 🔊 [Text-To-Speech-App](https://github.com/incubated-geek-cc/Text-To-Speech-App)
+Point it at an image of text and it reads the text aloud. Tesseract.js OCR feeding the Web
+Speech API, packaged as a portable offline app. Built as an accessibility tool that works
+without connectivity.
+`JavaScript · Tesseract.js · Web Speech API`
 
-<h4>🔣 Character Encoding/Decoding</h4>
-<p><sub>📑 <a href='https://javascript.plainenglish.io/here-are-2-javascript-approaches-to-encode-decode-html-entities-52989bb12031' target='_blank'>2 JavaScript Approaches to Encode/Decode HTML Entities</a>&nbsp;<a href="https://incubated-geek-cc.github.io/html-encode-decode/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+### 🚌 [sg-transportation](https://github.com/incubated-geek-cc/sg-transportation)
+Live bus arrival times and route geometry for Singapore, on a map, from LTA's open API.
+A working reference for anyone wiring a realtime transit feed to a Leaflet frontend.
+`JavaScript · Leaflet · LTA DataMall API`
 
-<p><sub>📑 <a href='https://medium.com/geekculture/how-to-format-text-in-linkedin-posts-808e322f9e59' target='_blank'>How to Format Text in LinkedIn Posts</a>&nbsp;<a href="https://incubated-geek-cc.github.io/text-formatters/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+### 🧠 [mindful-predictions](https://github.com/incubated-geek-cc/mindful-predictions)
+Predicts likelihood of seeking mental-healthcare treatment from survey features. A deployed
+regression model rather than a notebook — mental-health analytics is a long-running interest
+of mine, and this is the publicly shareable version of it.
+`Python · Flask · scikit-learn`
 
-<p><sub>📑 <a href='https://geek-cc.medium.com/how-to-convert-string-to-buffer-and-data-url-formats-using-client-side-javascript-9514a8c446d2' target='_blank'>How To Convert String To Buffer And Data URL Formats Using Client-Side JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/convert-to-buffer/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+### ☕ [Tess4JOcrApp](https://github.com/incubated-geek-cc/Tess4JOcrApp) · [data-extraction-with-Java](https://github.com/incubated-geek-cc/data-extraction-with-Java)
+The Java pair I reference most often across my writing. Portable Tesseract OCR via Tess4J, and
+programmatic extraction from Excel and Outlook files. Together they cover the unglamorous
+backbone of most automation work: getting text out of formats that resist it, on a machine
+where you can't install anything.
+`Java · Tess4J · Apache POI`
 
-<h4>🔄 Pattern-based Encoded Data</h4>
-<p><sub>📑 <a href='https://javascript.plainenglish.io/an-offline-qr-code-generator-reader-built-in-100-vanilla-javascript-b7e8aec812e8' target='_blank'>An Offline QR Code Generator/Reader Built With 100% Vanilla JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/qr-utility/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+---
 
-<p><sub>📑 <a href='https://medium.com/weekly-webtips/how-to-generate-barcodes-code39-in-unicode-symbols-with-javascript-3d53559b877c' target='_blank'>How to Generate Barcodes (CODE39) in Unicode Symbols with JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/barcode-39/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+## What I write about
 
-<h4>🎦 Image Processing (with HTML Canvas)</h4>
-<p><sub>📑 <a href='https://javascript.plainenglish.io/how-to-encode-image-files-in-base64-with-plain-javascript-4927fa08e063' target='_blank'>How to Encode Image Files in Base64 with Plain JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/encode-base64/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+**Close to 100 posts since 2020, and still going.** Most start from something I hit at work
+and couldn't solve with what was already installed, so I publish the generalised,
+non-confidential version — **79% ship a linked repository or a live demo**, because a post
+without runnable code hasn't really explained anything.
 
-<p><sub>📑 <a href='https://javascript.plainenglish.io/3-steps-to-convert-svgs-to-image-file-formats-png-in-javascript-5394bf837185' target='_blank'>3 Steps to Convert SVGs to Image File Formats (.PNG) in JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/svg2png/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+In *Towards Data Science*, *JavaScript in Plain English*, *Data Science Collective*,
+*Geek Culture* and *Webtips*.
 
-<p><sub>📑 <a href='https://javascript.plainenglish.io/how-to-change-image-hue-with-html5-canvas-in-javascript-514f0e8226a0' target='_blank'>How To Change Image Hue With HTML5 Canvas In JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/image-rgb-change/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+| Theme | What it covers |
+|---|---|
+| **Java tooling** | OCR, file extraction, runnable JAR packaging, Swing desktop apps |
+| **Client-side JS utilities** | Canvas, SVG, encoding/decoding, format conversion — all browser-only |
+| **Browser & offline ML** | ONNX and WASM inference, Whisper, math OCR, local LLMs |
+| **DevOps & deployment** | Packaging, deployment, API key handling, Git workflow |
+| **Geospatial** | Leaflet, Turf.js, offline basemaps, format conversion, Tableau mapping |
 
-<h4>🆓 Other Miscellaneous Utilities</h4>
-<p><sub>📑 <a href='https://medium.com/weekly-webtips/enable-line-numbering-to-any-html-textarea-35e15ea320e2' target='_blank'>Enable Line Numbering to any HTML Textarea</a>&nbsp;<a href="https://incubated-geek-cc.github.io/code-editors/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
+📓 **[26 live browser demos](https://github.com/incubated-geek-cc?tab=repositories)** — QR and
+barcode generation, HTML entity encoding, SVG→PNG, raster→vector tracing, geospatial format
+conversion (KML/SHP/GeoJSON), and more. All client-side, all runnable without a backend.
 
-<p><sub>📑 <a href='https://javascript.plainenglish.io/enable-line-numbering-to-any-html-textarea-ac992e70de98' target='_blank'>Enable Line Numbering to any HTML Textarea (Part II)</a>&nbsp;<a href="https://incubated-geek-cc.github.io/code-editors-2/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
-
-<p><sub>📑 <a href='https://medium.com/weekly-webtips/build-a-hexagonal-color-picker-with-css-vanilla-javascript-36e62d10527' target='_blank'>Build A Hexagonal Color Picker with CSS & Vanilla JavaScript</a>&nbsp;<a href="https://incubated-geek-cc.github.io/hexagonal-picker/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
-
-<p><sub>📑 <a href='https://towardsdatascience.com/geospatial-file-format-conversions-kml-shp-geojson-25261beb2153' target='_blank'>Geospatial Data File Format Conversions (KML, SHP, GeoJSON)</a>&nbsp;<a href="https://incubated-geek-cc.github.io/geospatial-data-convertors/" target="_blank">🔗［Live Demo :: Link］</a></sub></p>
-
-
-<br>
-<p align="left"><a href="https://www.buymeacoffee.com/geekcc" target="blank"><img src="https://github.com/incubated-geek-cc/incubated-geek-cc/raw/main/buy_me_a_taco.png" alt="Buy me a taco!" width="160" /></a></p>
-— Would appreciate it 😋
+---
